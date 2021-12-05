@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<digit> = akyllyoy;
+
+public <digits> = <digit>+;

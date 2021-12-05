@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Ses kömekçi</string>
+    <string name="kws_caption">Açar sözüni ulan:</string>
+    <string name="forecast_caption">Buýruga taýyn!</string>
+    <string name="menu_caption">Aýdyp bilersiňiz: Çyrany ýak, çyrany öçür, sowadyjy açyl, sowadyjy ýapyl, gapyny aç</string>
+    <string name="save">Ýatda sakla</string>
+    <string name="settings">Sazlamalar</string>
+    <string name="ai_run_technology">AiRun Technology W.S.</string>
+    <string name="digital_car">Sanly Ulag</string>
+    <string name="system">Ulgamy</string>
+    <string name="space" />
+    <string name="inspired_by_future">inspired by Future</string>
+    <string name="ip_address">IP salgysy</string>
+    <string name="mobile_number">Tel. belgisi</string>
+    <string name="password">Şahsy kod</string>
+    <string name="ip">198.168.43.18</string>
+    <string name="number">65012115</string>
+    <string name="pass_num">32413</string>
+    <string name="version">Version 1.01</string>
+    <string name="designed_by_wolf_squad">designed by Wolf Squad</string>
+    <string name="_0_u2103">0℃</string>
+    <string name="water">Suw</string>
+    <string name="temp">Temp.</string>
+    <string name="_0">0%</string>
+    <string name="fuel">Ýangyç</string>
+    <string name="success">Üstünlikli</string>
+    <string name="fit">Boşlugy dolduryň!</string>
+    <string name="_192_168_1_101">192.168.1.101</string>
+    <string name="port">:5000</string>
+    <string name="esp">/esp</string>
+    <string name="null_or_iot">/Null or iot</string>
+    <string name="jsontoarg">/JsonToArg/</string>
+    <string name="http">http</string>
+    <string name="ipAddress">IP address</string>
+    <string name="portName">PORT</string>
+    <string name="first_parameter">First Parameter</string>
+    <string name="null_parameter">Null Parameter</string>
+    <string name="second_parameter">Second Parameter</string>
+    <string name="url">URL</string>
+</resources>
